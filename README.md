@@ -6,18 +6,16 @@ Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no períod
 
 Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listando os meus repositórios:
 
-| Tipo | Repositório      | Tipo de jogo/Sistema | 3D, 2D?          | Plataformas |
-|------|------------------|----------------------|------------------|-------------|
-| Jogo | Ashes Of Jupiter | Aventura             | 3D               | Windows     |
-| Jogo | Alter Ego        | Visual Novel         | 2D               | Windows     |
-| Jogo | Athaulfs Revenge | Aventura             | 2D               | Windows     |
-| Jogo | GameComandLine   | Blackjack, Cartas    | Linha de comando | Windows     |
-| Jogo | Nowhere          | Exploração, FPS      | 3D               | Windows     |
-|-----:|------------------|----------------------|------------------|-------------|
-|System| TCC ETEC         | Sistema Escolar      |                  | Windows     |
-|System| Weather_system   | Exploração, FPS      |                  | 
-|System| Nowhere          | Exploração, FPS      |                  |
-|System| Nowhere          | Exploração, FPS      |                  |
+| Tipo | Repositório      | Tipo de jogo/Sistema | Linguagens/tecnologias| Plataformas | 3D, 2D/Resumo    |
+|------|------------------|----------------------|-----------------------|-------------|------------------|
+| Jogo | Ashes Of Jupiter | Aventura             | C# .NET               | Windows     | 3D               |
+| Jogo | Alter Ego        | Visual Novel         | C# .NET               | Windows     | 2D               |
+| Jogo | Athaulfs Revenge | Aventura             | C# .NET               | Windows     | 3D               |
+| Jogo | GameComandLine   | Blackjack, Cartas    | C# .NET               | Windows     | Linha de comando |
+| Jogo | Nowhere          | Exploração, FPS      | C# .NET               | Windows     | 3D               |
+|------|------------------|----------------------|-----------------------|-------------|------------------|
+|System| TCC ETEC         | Sistema Escolar      | MySQL, Java           | Windows     |                  | 
+|System| Weather_system   | Previsão do tempo    | C# .NET, HTTP, API    | Windows     | Linha de comando | 
 
 
 <details>
