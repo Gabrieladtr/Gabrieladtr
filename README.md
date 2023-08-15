@@ -7,9 +7,12 @@
 
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Olá, me chamo Gabriel da Rocha. Sou um dev backend C# .NET que desenvolve jogos e sistemas.
+Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no período 5/6. Prevejo terminar ano que vem, em junho.
 
-| Rank | Languages |
+Nesse perfil, você pode conferir o meu trabalho. Tenho 3 repositórios de jogos e os outros repositórios são de sistemas.
+
+| RANK | Languages |TESTE
 |-----:|-----------|
 |     1| Javascript|
 |     2| Python    |
