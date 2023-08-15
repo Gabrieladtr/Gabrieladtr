@@ -2,7 +2,7 @@
 
 Olá, me chamo Gabriel da Rocha. Sou um dev backend C# .NET que desenvolve jogos e sistemas.
 
-Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no período 5/6. Prevejo terminar ano que vem, em junho.
+Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no período 5/6. Prevejo terminar ano que vem (2024), em junho.
 
 Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listando os meus repositórios:
 
@@ -15,16 +15,23 @@ Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listand
 | Jogo | Nowhere          | Exploração, FPS      | C# .NET               | Windows     | 3D               |
 |------|------------------|----------------------|-----------------------|-------------|------------------|
 |System| TCC ETEC         | Sistema Escolar      | MySQL, Java           | Windows     |                  | 
-|System| Weather_system   | Previsão do tempo    | C# .NET, HTTP, API    | Windows     | Linha de comando | 
+|System| Weather_system   | Previsão do tempo    | C# .NET, HTTP, API    | Windows     | Linha de comando/Site |
+|System| Site Saphire     | Blog, formulários    | C# .NET, HTML,CSS, JS,| Navegador   | Site             |
+|System| Sistema bancário | Sistema              | C# .NET, HTML,CSS, JS,| Navegador   | Site             |
 
 
-<details>
-<summary>My top languages</summary>
+<summary>Meu conhecimento em linguagens de programação</summary>
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+|     1| C#        |
+|     2| MySQL     |
+|     3| Java      |
+|     4| JavaScript|
+|     5| HTML      |
+|     6| CSS       |
 
-</details>
+
+
+
+
