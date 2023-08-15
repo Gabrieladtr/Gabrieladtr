@@ -12,11 +12,17 @@ Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no períod
 
 Nesse perfil, você pode conferir o meu trabalho. Tenho 3 repositórios de jogos e os outros repositórios são de sistemas.
 
-| RANK | Repositórios |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+| Tipo | Repositórios     | Tipo de jogo/Sistema | 3D, 2D?          |
+|-----:|------------------|----------------------|------------------|
+| Jogo | Ashes Of Jupiter | Aventura             | 3D               |
+| Jogo | Alter Ego        | Visual Novel         | 2D               |
+| Jogo | Athaulfs Revenge | Aventura             | 2D               |
+| Jogo | GameComandLine   | Blackjack, Cartas    | Linha de comando |
+| Jogo | Nowhere          | Exploração, FPS      | 3D               |
+|System| Nowhere          | Exploração, FPS      | 3D               |
+| Jogo | Nowhere          | Exploração, FPS      | 3D               |
+| Jogo | Nowhere          | Exploração, FPS      | 3D               |
+| Jogo | Nowhere          | Exploração, FPS      | 3D               |
 
 
 <details>
