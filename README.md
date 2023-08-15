@@ -12,7 +12,7 @@ Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no períod
 
 Nesse perfil, você pode conferir o meu trabalho. Tenho 3 repositórios de jogos e os outros repositórios são de sistemas.
 
-| RANK | Languages |TESTE
+| RANK | Repositórios |
 |-----:|-----------|
 |     1| Javascript|
 |     2| Python    |
