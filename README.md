@@ -4,7 +4,10 @@ Olá, me chamo Gabriel da Rocha. Sou um dev backend C# .NET que desenvolve jogos
 
 Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no período 5/6. Prevejo terminar ano que vem (2024), em junho.
 
-Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listando os meus repositórios:
+Criei a Saphire Game Studio, que é o meu estúdio de games. É por esse nome que compartilho meus jogos. Na sessão de links ao lado você pode conferir as redes sociais do estúdio e baixar meus jogos (windows 64bit) na minha página da Itch.io.
+
+
+Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listando os meus repositórios de jogos e sistemas:
 
 | Tipo | Repositório      | Tipo de jogo/Sistema | Linguagens/tecnologias| Plataformas | 3D, 2D/Resumo    |
 |------|------------------|----------------------|-----------------------|-------------|------------------|
