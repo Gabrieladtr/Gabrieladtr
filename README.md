@@ -6,6 +6,7 @@ Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no períod
 
 Criei a Saphire Game Studio, que é o meu estúdio de games. É por esse nome que compartilho meus jogos. Na sessão de links ao lado você pode conferir as redes sociais do estúdio e baixar meus jogos (windows 64bit) na minha página da Itch.io.
 
+Meu objetivo é trabalhar como um dev backend c#.
 
 Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listando os meus repositórios de jogos e sistemas:
 
