@@ -37,7 +37,10 @@ Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listand
 
 
 <summary>TCC ETEC - Sistema administrativo para uma escola de inglês</summary>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062450.png">
-  </picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062450.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062450.png">
+</picture>
 
