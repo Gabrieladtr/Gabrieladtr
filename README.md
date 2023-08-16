@@ -33,12 +33,11 @@ Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listand
 |     5| HTML      |
 |     6| CSS       |
 
-![Teste]([URL_DA_IMAGEM](https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062450.png)https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062450.png)
+<summary>Abaixo seguem algumas imagens dos meus sistemas e dos jogos que já desenvolvi</summary>
 
+
+<summary>TCC ETEC - Sistema administrativo para uma escola de inglês</summary>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062450.png">
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+  </picture>
 
