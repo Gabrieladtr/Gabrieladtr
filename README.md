@@ -33,7 +33,7 @@ Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listand
 |     5| HTML      |
 |     6| CSS       |
 
-<summary>Abaixo seguem algumas imagens dos meus sistemas e dos jogos que já desenvolvi</summary>
+## Abaixo seguem algumas imagens dos meus sistemas e dos jogos que já desenvolvi
 
 
 <summary>TCC ETEC - Sistema administrativo para uma escola de inglês</summary>
@@ -43,4 +43,67 @@ Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listand
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062450.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062450.png">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062525.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062525.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062525.png">
+</picture>
+
+<summary>Sistema de previsão do tempo | Clima</summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/TqpID8.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/TqpID8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/TqpID8.png">
+</picture>
+
+
+<summary>Abaixo seguem alguns games que desenvolvi no nome do meu estúdio</summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062943.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062943.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062943.png">
+</picture>
+
+<summary>Alter Ego</summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062959.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062959.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062959.png">
+</picture>
+
+<summary>Ashes Of Jupiter</summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20063026.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20063026.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20063026.png">
+</picture>
+
+<summary>Athaulfs Revenge</summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20063013.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20063013.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20063013.png">
+</picture>
+
+<summary>BlackJack CMD</summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/w1JwlP.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/w1JwlP.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/w1JwlP.png">
+</picture>
+
+<summary>Nowhere | Ainda em construção</summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/TqpID8.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/TqpID8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/TqpID8.png">
+</picture>
+
+
+
+
+
+
+
 
