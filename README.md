@@ -33,7 +33,7 @@ Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listand
 |     5| HTML      |
 |     6| CSS       |
 
-
+![Teste]([URL_DA_IMAGEM](https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062450.png)https://github.com/Gabrieladtr/Gabrieladtr/blob/main/Images/Captura%20de%20tela%202023-08-16%20062450.png)
 
 
 
