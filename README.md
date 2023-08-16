@@ -20,8 +20,6 @@ Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listand
 |------|------------------|----------------------|-----------------------|-------------|------------------|
 |System| TCC ETEC         | Sistema Escolar      | MySQL, Java           | Windows     |                  | 
 |System| Weather_system   | Previsão do tempo    | C# .NET, HTTP, API    | Windows     | Linha de comando/Site |
-|System| Site Saphire     | Blog, formulários    | C# .NET, HTML,CSS, JS,| Navegador   | Site             |
-|System| Sistema bancário | Sistema              | C# .NET, HTML,CSS, JS,| Navegador   | Site             |
 
 
 <summary>Meu conhecimento em linguagens de programação</summary>
