@@ -10,7 +10,7 @@ Meu objetivo é trabalhar como um dev backend c#.
 
 Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listando os meus repositórios de jogos e sistemas:
 
-| Tipo | Repositório      | Tipo de jogo/Sistema | Linguagens/tecnologias| Plataformas | 3D, 2D/Resumo    |
+| Tipo | Repositório      | Tipo de jogo/Sistema | Linguagens/tecnologias| Plataformas | 3D, 2D/Resumo    | Status    |
 |------|------------------|----------------------|-----------------------|-------------|------------------|
 | Jogo | Ashes Of Jupiter | Aventura             | C# .NET               | Windows     | 3D               |
 | Jogo | Alter Ego        | Visual Novel         | C# .NET               | Windows     | 2D               |
