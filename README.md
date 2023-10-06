@@ -10,13 +10,13 @@ Meu objetivo é trabalhar como um dev backend c#.
 
 Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listando os meus repositórios de jogos e sistemas:
 
-| Tipo | Repositório      | Tipo de jogo/Sistema | Linguagens/tecnologias| Plataformas | 3D, 2D/Resumo    | Status    |
+| Tipo | Repositório      | Tipo de jogo/Sistema | Linguagens/tecnologias| Plataformas | 3D, 2D/Resumo    |
 |------|------------------|----------------------|-----------------------|-------------|------------------|
 | Jogo | Ashes Of Jupiter | Aventura             | C# .NET               | Windows     | 3D               |
 | Jogo | Alter Ego        | Visual Novel         | C# .NET               | Windows     | 2D               |
 | Jogo | Athaulfs Revenge | Aventura             | C# .NET               | Windows     | 3D               |
 | Jogo | GameComandLine   | Blackjack, Cartas    | C# .NET               | Windows     | Linha de comando |
-| Jogo | Nowhere          | Exploração, FPS      | C# .NET               | Windows     | 3D               |
+| Jogo | Nowhere          | Exploração, FPS      | C# .NET               | Windows     | 3D, em desenvolvimento               |
 |------|------------------|----------------------|-----------------------|-------------|------------------|
 |System| TCC ETEC         | Sistema Escolar      | MySQL, Java           | Windows     |                  | 
 |System| Weather_system   | Previsão do tempo    | C# .NET, HTTP, API    | Windows     | Linha de comando/Site |
