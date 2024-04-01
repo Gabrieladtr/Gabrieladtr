@@ -2,7 +2,7 @@
 
 Olá, me chamo Gabriel da Rocha. Sou um dev backend C# .NET que desenvolve jogos e sistemas.
 
-Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no período 6/6. Prevejo terminar ano que vem (2024), em junho.
+Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no período 6/6. Prevejo terminar ano de 2024, em junho.
 
 Criei a Saphire Game Studio em 2021, que é o meu estúdio de games. É por esse nome que compartilho meus jogos, casuais, indies e para PC. 
 
@@ -21,6 +21,8 @@ Meu objetivo é trabalhar como um dev backend c#, mas estou sempre aberto ao mer
 
 
 No momento ainda estou em processo de disponibilzação dos processos da Quartzo Interactive.
+
+Hoje meu maior foco na Saphire é o meu TCC da universidade, que é o Sinfornia Del Inferno. 
 
 Mas nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listando alguns dos meus repositórios de jogos e sistemas (da Saphire Game Studio):
 
