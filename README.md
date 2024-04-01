@@ -2,13 +2,28 @@
 
 Olá, me chamo Gabriel da Rocha. Sou um dev backend C# .NET que desenvolve jogos e sistemas.
 
-Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no período 5/6. Prevejo terminar ano que vem (2024), em junho.
+Atualmente estou finalizando minha faculdade de Jogos Digitais, estou no período 6/6. Prevejo terminar ano que vem (2024), em junho.
 
-Criei a Saphire Game Studio, que é o meu estúdio de games. É por esse nome que compartilho meus jogos. Na sessão de links ao lado você pode conferir as redes sociais do estúdio e baixar meus jogos (windows 64bit) na minha página da Itch.io.
+Criei a Saphire Game Studio em 2021, que é o meu estúdio de games. É por esse nome que compartilho meus jogos, casuais, indies e para PC. 
 
-Meu objetivo é trabalhar como um dev backend c#.
+Na sessão de links ao lado você pode conferir as redes sociais do estúdio e baixar meus jogos (windows 64bit) na minha página da Itch.io.
 
-Nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listando os meus repositórios de jogos e sistemas:
+Também em 2024 criei a Quartzo Interactive, um estúdio de games focado no mercado de publicidade.
+
+Além disso, também já atuei como professor de programação e desenvolvimento de games para jovens na Zion, uma das maiores escolas de games de São Paulo!
+
+E atualmente estou trabalhando criando conteúdo para graduações e pós graduações EAD do grupo Cogna, maior empresa de educação do Brasil (dona da Anhanguera e Unopar).
+
+Uma coisa que poucos sabem sobre mim, é que também sou um profissional da área financeira, tendo trabalhado em grandes multinacionais, um hospital e hoje numa metalurgica. 
+
+
+Meu objetivo é trabalhar como um dev backend c#, mas estou sempre aberto ao mercado de publicidade, ensino e na área financeira.
+
+
+No momento ainda estou em processo de disponibilzação dos processos da Quartzo Interactive.
+
+Mas nesse perfil, você pode conferir o meu trabalho. Abaixo tem essa tabela listando alguns dos meus repositórios de jogos e sistemas (da Saphire Game Studio):
+
 
 | Tipo | Repositório      | Tipo de jogo/Sistema | Linguagens/tecnologias| Plataformas | 3D, 2D/Resumo    |
 |------|------------------|----------------------|-----------------------|-------------|------------------|
