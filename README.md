@@ -12,8 +12,6 @@ Também em 2024 criei a Quartzo Interactive, um estúdio de games focado no merc
 
 Além disso, também já atuei como professor de programação e desenvolvimento de games para jovens na Zion, uma das maiores escolas de games de São Paulo!
 
-E atualmente estou trabalhando criando conteúdo para graduações e pós graduações EAD do grupo Cogna, maior empresa de educação do Brasil (dona da Anhanguera e Unopar).
-
 Uma coisa que poucos sabem sobre mim, é que também sou um profissional da área financeira, tendo trabalhado em grandes multinacionais, um hospital e hoje numa metalurgica. 
 
 
