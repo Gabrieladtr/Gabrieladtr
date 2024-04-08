@@ -8,7 +8,7 @@ Criei a Saphire Game Studio em 2021, que é o meu estúdio de games. É por esse
 
 Na sessão de links ao lado você pode conferir as redes sociais do estúdio e baixar meus jogos (windows 64bit) na minha página da Itch.io.
 
-Também em 2024 criei a Quartzo Interactive, um estúdio de games focado no mercado de publicidade.
+Também em 2024 criei a Quartzo Interactive, um estúdio de games focado no mercado de publicidade com meu parceito @VitorOliveira. Um estúdio inovador, utilizando das tecnologias mais atuais, capaz de transmitir por meio de games o que a publicidade tem a dizer sobre a sua empresa!
 
 Além disso, também já atuei como professor de programação e desenvolvimento de games para jovens na Zion, uma das maiores escolas de games de São Paulo!
 
