@@ -1,6 +1,6 @@
 ## About me | Sobre mim
 
-Hello, my name is Gabriel da Rocha. I am a C# .NET backend developer who builds games and systems.
+Hello, my name is Gabriel da Rocha. I am a 3D Artist and C# .NET backend developer who builds games and systems.
 
 I hold a degree in Digital Games from FATEC (a public university in São Paulo).
 
