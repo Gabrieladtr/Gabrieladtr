@@ -1,10 +1,10 @@
 ## About me | Sobre mim
 
-Olá, me chamo Gabriel da Rocha. Sou um dev backend C# .NET que desenvolve jogos e sistemas.
+Hello, my name is Gabriel da Rocha. I am a C# .NET backend developer who builds games and systems.
 
-Formado na graduação em Jogos Digitais pela FATEC - Universidade Publica de São Paulo
+I hold a degree in Digital Games from FATEC (a public university in São Paulo).
 
-Aqui nesse perfil do Github eu coloquei alguns repositórios de projetos menores que desenvolvi ao longo desses últimos anos.
+On this GitHub profile, I have included several repositories for smaller projects that I have developed over the last few years.
 
 
 | Tipo | Repositório      | Tipo de jogo/Sistema | Linguagens/tecnologias| Plataformas | 3D, 2D/Resumo    |
@@ -19,7 +19,7 @@ Aqui nesse perfil do Github eu coloquei alguns repositórios de projetos menores
 |System| Weather_system   | Previsão do tempo    | C# .NET, HTTP, API    | Windows     | Linha de comando/Site |
 
 
-<summary>Meu conhecimento em linguagens de programação</summary>
+<summary>My knowledge of programming languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -29,6 +29,9 @@ Aqui nesse perfil do Github eu coloquei alguns repositórios de projetos menores
 |     4| JavaScript|
 |     5| HTML      |
 |     6| CSS       |
+|     7| GD Script |
+|     8| LUA       |
+
 
 ## Abaixo seguem algumas imagens dos meus sistemas e dos jogos que já desenvolvi
 
